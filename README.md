@@ -1,6 +1,6 @@
 
 
-### <div align="center">I'm Samuel, a full-time back-end freelance developer 👨‍💻 working remotely since 2020 🚀</div>  
+### <div align="center">I'm Samuel, a full-time back-end freelance developer 👨‍💻 working remotely since 2021 🚀</div>  
   
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/samuelbarrionuevo)  
