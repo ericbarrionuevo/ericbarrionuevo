@@ -100,8 +100,6 @@
     <img  alt="tecsamuel25@gmail.com's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/tecsamuel25@gmail.com?cardType=github" />
   </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 
