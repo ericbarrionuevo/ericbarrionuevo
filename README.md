@@ -89,11 +89,8 @@
 
 
 ## Github Stats  
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=samuelbarrionuevo&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/samuelbarrionuevo?cardType=github)](https://git.io/awesome-stats-card)
-
 
 
 
