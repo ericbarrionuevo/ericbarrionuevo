@@ -94,11 +94,6 @@
 
 
 
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github">
-    <img  alt="samuelbarrionuevo's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/samuelbarrionuevo?cardType=github" />
-  </a>
-
-
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
