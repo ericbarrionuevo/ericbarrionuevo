@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/samuelbarrionuevo)  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
+- 😺 I’m currently learning Testing and Docker  
   
 
 - ❓ Ask me about anything related to Backend stack and related technologies  
@@ -91,7 +91,10 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=samuelbarrionuevo&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+
+
 
 
 ## Recent Blog Posts  
