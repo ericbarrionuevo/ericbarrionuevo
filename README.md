@@ -100,7 +100,9 @@
     <img  alt="tecsamuel25@gmail.com's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/tecsamuel25@gmail.com?cardType=github" />
   </a>
 
-
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github">
+    <img  alt="samuelbarrionuevo's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/samuelbarrionuevo?cardType=github" />
+  </a>
 
 
 
