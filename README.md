@@ -89,8 +89,8 @@
 
 
 ## Github Stats  
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=samuelbarrionuevo&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=samuelbarrionuevo&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
