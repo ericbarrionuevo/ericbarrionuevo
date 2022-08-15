@@ -91,11 +91,17 @@
 ## Github Stats  
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=samuelbarrionuevo&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/tecsamuel25@gmail.com?cardType=github)](https://git.io/awesome-stats-card)
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/tecsamuel25@gmail.com?cardType=github)](https://git.io/awesome-stats-card)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+ <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github">
+    <img  alt="tecsamuel25@gmail.com's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/tecsamuel25@gmail.com?cardType=github" />
+  </a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
