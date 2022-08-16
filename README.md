@@ -12,7 +12,7 @@
 - ❓ Ask me about anything related to Backend stack and related technologies  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- Donations: https://www.paypal.com/paypalme/ericbarrionuevo?country.x=AR&locale.x=es_XC  
   
 
 <br/>  
