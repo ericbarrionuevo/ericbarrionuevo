@@ -1,9 +1,6 @@
 
 
-### <div align="center">I'm full-time back-end freelance developer 👨‍💻 working remotely since 2021 🚀</div>  
-  
-
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/samuelbarrionuevo)  
+### <div align="center">I'm full-time back-end freelance developer 👨‍💻 working remotely since 2021 🚀</div> 
   
 
 - 😺 I’m currently learning Testing and Docker  
