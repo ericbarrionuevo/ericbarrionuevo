@@ -96,7 +96,7 @@
 
 
 ## Recent Blog Posts  
-(https://www.youtube.com/c/Kousei-%E3%81%9C%E3%82%8D)
+
 
 <br/>  
 
