@@ -96,7 +96,7 @@
 
 
 ## Recent Blog Posts  
-[![Alt text](https://img.youtube.com/vi/3RFAX3CbSGA/0.jpg)](https://www.youtube.com/c/Kousei-%E3%81%9C%E3%82%8D)
+[![Alt text]([https://img.youtube.com/vi/3RFAX3CbSGA/0.jpg](https://adrenaline.com.br/uploads/chamadas/god_of_war_ragnarok3.jpg))](https://www.youtube.com/c/Kousei-%E3%81%9C%E3%82%8D)
 
 <br/>  
 
