@@ -7,9 +7,10 @@
   
 
 - ❓ Ask me about anything related to Backend stack and related technologies  
+
   
 
-- Donations: https://www.paypal.com/paypalme/ericbarrionuevo?country.x=AR&locale.x=es_XC  
+
   
 
 <br/>  
@@ -93,7 +94,7 @@
 
 <br/>  
 
-  
+- Donations: https://www.paypal.com/paypalme/ericbarrionuevo?country.x=AR&locale.x=es_XC    
 
 <br/>  
 
