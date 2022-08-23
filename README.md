@@ -81,7 +81,7 @@
 </a>
 <a href="https://www.linkedin.com/in/eric-samuel-barrionuevo" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />  
-  <a href = "mailto:tecsamuel25@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=blue" target="_blank"></a>
+  <a href = "mailto:tecsamuel25@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logowhite=blue" target="_blank"></a>
 </div>  
   
 
