@@ -71,6 +71,8 @@
 <br/>  
 
 ## Connect with me  
+  <a href="https://www.youtube.com/channel/UCqpRorgFrzIHNfrd25NckKg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+
 <div align="center">
 <a href="https://github.com/samuelbarrionuevo" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
