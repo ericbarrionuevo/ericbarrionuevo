@@ -91,10 +91,9 @@
 
 
 ## Github Stats  
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/samuelbarrionuevo?cardType=github)](https://git.io/awesome-stats-card)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelbarrionuevo&layout=compact)](https://github.com/samuelbarrionuevo/github-readme-stats)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vybhav72954&layout=compact" alt="Languages"/> 
+</p>
 
 
 
