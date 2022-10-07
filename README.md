@@ -91,7 +91,7 @@
 
 ## Github Stats  
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelbarrionuevo&layout=compact" alt="Languages"/> 
+   ![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only)
 </p>
 
 
