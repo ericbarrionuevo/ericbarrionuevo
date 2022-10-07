@@ -91,8 +91,7 @@
 
 ## Github Stats  
 <p align="center">
-   ![](https://raw.githubusercontent.com/samuelbarrionuevo/github-stats/main/generated/languages.svg#gh-light-mode-only)
-</p>
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelbarrionuevo&layout=compact)](https://github.com/samuelbarrionuevo/github-readme-stats)
 
 
 
