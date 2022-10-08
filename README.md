@@ -94,7 +94,7 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelbarrionuevo&layout=compact)](https://github.com/samuelbarrionuevo/github-readme-stats)
 
-<img src="https://github.com/samuelbarrionuevo/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only#gh-light-mode-only" />
+
 
 <p/>
 
