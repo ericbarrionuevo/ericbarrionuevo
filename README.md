@@ -8,10 +8,11 @@
 - 🌱 Currently learning Linux, Rust, Linux, Math & Electronic.
   
 
-- ❓ Ask me about anything related to Backend stack and related technologies  
-
+- ❓ Ask me about anything related to Backend stack and related technologies 
   
-
+  ✅ Linux 
+  
+  ✅ Windows  
 
   
 
