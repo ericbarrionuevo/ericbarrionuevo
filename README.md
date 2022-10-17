@@ -95,9 +95,11 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelbarrionuevo&layout=compact)](https://github.com/samuelbarrionuevo/github-readme-stats)
 
-
-
 <p/>
+
+<p align="left"> <img src=https://github-readme-stats.vercel.app/api?username=samuelbarrionuevo&show_icons=true alt=samuelbarrionuevo /> </p>
+
+
 
 <br/>  
 
