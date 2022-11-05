@@ -8,7 +8,7 @@
 - 🌱 Currently learning Linux, Rust, Linux, Math & Electronic.
   
 
-- ❓ Ask me about anything related to Backend stack and related technologies 
+- 💬 Ask me about DevOps development, sql queries, Rust, Backend Technologies...
   
   ✅ Linux 
   
