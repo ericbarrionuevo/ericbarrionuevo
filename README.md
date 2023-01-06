@@ -11,13 +11,9 @@
 
 - 💬 Ask me about DevOps development, SQL queries, Rust, Backend Technologies...
   
-  ✅ Windows
+  ✅ Windows  ✅ Javascript  
   
-  ✅ Javascript  
-  
-  ✅ NetCore  
-  
-  ✅ Sql Server   
+  ✅ NetCore  ✅ Sql Server   
 
   
 
