@@ -13,7 +13,7 @@
   
   ✅ Windows  ✅ Javascript  
   
-  ✅ NetCore  ✅ Sql Server   
+  ✅ NetCore   ✅ Sql Server   
 
   
 
