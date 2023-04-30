@@ -94,11 +94,11 @@
 ## Github Stats  
 <p align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericbarrionuevo&layout=compact)](https://github.com/ericbarrionuevo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelbarrionuevo&layout=compact)](https://github.com/samuelbarrionuevo/github-readme-stats)
 
 <p/>
 
-<p align="left"> <img src=https://github-readme-stats.vercel.app/api?username=ericbarrionuevo&show_icons=true alt=ericbarrionuevo /> </p>
+<p align="left"> <img src=https://github-readme-stats.vercel.app/api?username=samuelbarrionuevo&show_icons=true alt=samuelbarrionuevo /> </p>
 
 
 
@@ -109,7 +109,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=ericbarrionuevo&&style=flat-square"  align="center" />
+<img src="https://komarev.com/ghpvc/?username=samuelbarrionuevo&&style=flat-square"  align="center" />
 </div>  
   
 
