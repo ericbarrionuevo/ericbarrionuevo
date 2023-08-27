@@ -3,7 +3,7 @@
 ### <div align="center">I'm full-time back-end freelance developer 👨‍💻 working remotely since 2021 🚀</div> 
 
 - As a creative & passionate developer, and fast learner with new skills and cutting edge skills in detail and high quality.
-- I have a great interest in Back-end Web Development Services. With great self-taught ability, analytical criteria, aptitude for learning new technologies related to   A Cloud infrastructure, Azure, Linux, testing and DevOps.
+- I have a great interest in Back-end Web Development Services. With great self-taught ability, analytical criteria, aptitude for learning new technologies related to   A Cloud infrastructure, testing and DevOps.
   I am a person who always learns from colleagues, experiences in a work team, either to improve communication or soft skills
 
 - 🐺 Currently learning Linux ,Arduino, Rust, Math & Electronic Technologies.⛩️
@@ -11,9 +11,10 @@
 
 - 💬 Ask me about DevOps development, SQL queries, Rust, Backend Technologies...
   
-  ✅ Windows  ✅ Javascript  
-  
-  ✅ NetCore   ✅ Sql Server   
+  ✅ Windows
+  ✅ Javascript  
+  ✅ NetCore
+  ✅ Sql Server   
 
   
 
