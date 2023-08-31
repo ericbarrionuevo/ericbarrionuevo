@@ -6,7 +6,11 @@
 - I have a great interest in Back-end Web Development Services. With great self-taught ability, analytical criteria, aptitude for learning new technologies related to   A Cloud infrastructure, testing and DevOps.
   I am a person who always learns from colleagues, experiences in a work team, either to improve communication or soft skills
 
-- 🐺 Currently learning Linux ,Arduino, Rust, Math & Electronic Technologies.⛩️
+- 🐺 Currently learning Audio Designer, Rust, Math & Electronic Technologies.⛩️
+
+· Development and testing of applications in Net Framework.
+· Application streaming.
+· Software updates, technical documentation management.
   
 
 - 💬 Ask me about DevOps development, SQL queries, Rust, Backend Technologies...
