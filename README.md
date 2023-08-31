@@ -8,9 +8,9 @@
 
 - 🐺 Currently learning Audio Designer, Rust, Math & Electronic Technologies.⛩️
 
-· Development and testing of applications in Net Framework.
-· Application streaming.
-· Software updates, technical documentation management.
+-  Development and testing of applications in Net Framework.
+-  Application streaming.
+-  Software updates, technical documentation management.
   
 
 - 💬 Ask me about DevOps development, SQL queries, Rust, Backend Technologies...
