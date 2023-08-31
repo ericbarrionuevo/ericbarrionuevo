@@ -97,11 +97,14 @@
 ## Github Stats  
 <p align="center">
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelbarrionuevo&layout=compact)](https://github.com/samuelbarrionuevo/github-readme-stats)
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=samuelbarrionuevo&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelbarrionuevo&layout=compact" />
+</div>
 
 <p/>
 
-<p align="left"> <img src=https://github-readme-stats.vercel.app/api?username=samuelbarrionuevo&show_icons=true alt=samuelbarrionuevo /> </p>
 
 
 
@@ -121,5 +124,4 @@
 <div align="center"></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a> </div>
+
