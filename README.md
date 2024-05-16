@@ -18,6 +18,7 @@
   ✅ Windows
   ✅ Javascript  
   ✅ NetCore
+  ✅ Blazor 
   ✅ Sql Server   
 
   
