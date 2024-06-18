@@ -181,6 +181,12 @@
   </a>
 </p>
 
+<a href="https://github.com/samuelbarrionuevo/samuelbarrionuevo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelbarrionuevo&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21&langs_count=3" />
+</a>
+
+
+
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
