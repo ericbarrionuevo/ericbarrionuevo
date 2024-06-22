@@ -112,7 +112,9 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=samuelbarrionuevo&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
+ 
+  [![GitHub Streak](https://streak-stats.demolab.com?user=samuelbarrionuevo)](https://git.io/streak-stats)
+
 </td>
 
 <td width="50%" align="center">
@@ -139,7 +141,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,css,postgres,prisma,express,github,html,java,js,linux,md,nginx,mysql,nodejs,postman,py,react,redux,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,cpp,css,postgres,prisma,express,github,html,java,js,linux,md,nginx,mysql,nodejs,postman,react,redux,vscode,kubernetes&perline=14" />
   </a>
 </p>
 
