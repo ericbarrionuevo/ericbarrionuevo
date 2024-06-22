@@ -113,7 +113,8 @@
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=samuelbarrionuevo&theme=dark&show_icons=true&count_private=true" />
   <br></br>
  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=samuelbarrionuevo)](https://git.io/streak-stats)
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=samuelbarrionuevo&theme=meta-dark)](https://git.io/streak-stats)
 
 </td>
 
