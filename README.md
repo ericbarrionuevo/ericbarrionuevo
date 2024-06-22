@@ -75,7 +75,8 @@
 
 <br/>  
 
-- Donations: https://www.paypal.com/paypalme/ericbarrionuevo?country.x=AR&locale.x=es_XC    
+- Donations: https://www.paypal.com/paypalme/ericbarrionuevo?country.x=AR&locale.x=es_XC
+
 
 <br/>  
 
