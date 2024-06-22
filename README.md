@@ -51,7 +51,6 @@
 <a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>    
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a> 
 <a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rust-plain.svg" alt="Rust" height="50" /></a>  
 
 </td></tr></table>  
@@ -74,30 +73,12 @@
 
 <br/>  
 
-
-## Github Stats  
-<p align="center">
-  
-
-<div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=samuelbarrionuevo&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelbarrionuevo&layout=compact" />
-</div>
-
-<p/>
-
-
-
-
 <br/>  
 
 - Donations: https://www.paypal.com/paypalme/ericbarrionuevo?country.x=AR&locale.x=es_XC    
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=samuelbarrionuevo&&style=flat-square"  align="center" />
-</div>  
   
 
 <br/>  
@@ -158,7 +139,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,cpp,css,postgres,prisma,express,github,html,java,js,linux,md,nginx,mysql,nodejs,postman,py,react,redux,vscode,kubernetes&perline=14" />
   </a>
 </p>
 
@@ -198,7 +179,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ----------------------------------------------------------------------
-Credit: [1010nishant](https://github.com/1010nishant)
+
 
 
 
