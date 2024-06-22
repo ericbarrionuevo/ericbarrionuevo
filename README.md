@@ -13,7 +13,7 @@
 -  Software updates, technical documentation management.
   
 
-- 💬 Ask me about DevOps development, SQL queries, Rust, Backend Technologies...
+- 💬 Ask me about DevOps development, Motion Graphics, Rust, FrontEnd Technologies...
   
   ✅ Windows
   ✅ Javascript  
