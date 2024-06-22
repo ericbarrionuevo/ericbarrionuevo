@@ -16,9 +16,13 @@
 - 💬 Ask me about DevOps development, Motion Graphics, Rust, FrontEnd Technologies...
   
   ✅ Windows
-  ✅ Javascript  
+  
+  ✅ Javascript
+  
   ✅ NetCore
-  ✅ Blazor 
+  
+  ✅ Blazor
+  
   ✅ Sql Server   
 
   
