@@ -1,6 +1,6 @@
 
 
-### <div align="center">I'm full-time back-end freelance developer 👨‍💻 working remotely since 2021 🚀</div> 
+### <div align="center"> NET developer 🚀</div> 
 
 - As a creative & passionate developer, and fast learner with new skills and cutting edge skills in detail and high quality.
 - I have a great interest in Back-end Web Development Services. With great self-taught ability, analytical criteria, aptitude for learning new technologies related to   A Cloud infrastructure, testing and DevOps.
