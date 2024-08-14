@@ -66,7 +66,7 @@
 
 <div align="center">
   
-<a href="https://github.com/samuelbarrionuevo" target="_blank">
+<a href="https://github.com/ericbarrionuevo" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/eric-samuel-barrionuevo" target="_blank">
@@ -110,17 +110,17 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=samuelbarrionuevo&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=ericbarrionuevo&theme=dark&show_icons=true&count_private=true" />
   <br></br>
  
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=samuelbarrionuevo&theme=meta-dark)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=ericbarrionuevo&theme=meta-dark)](https://git.io/streak-stats)
 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=samuelbarrionuevo&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ericbarrionuevo&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
@@ -146,8 +146,8 @@
   </a>
 </p>
 
-<a href="https://github.com/samuelbarrionuevo/samuelbarrionuevo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelbarrionuevo&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21&langs_count=3" />
+<a href="https://github.com/ericbarrionuevo/ericbarrionuevo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericbarrionuevo&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=blueviolet&bg_color=1d1f21&langs_count=3" />
 </a>
 
 
@@ -172,7 +172,7 @@
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=samuelbarrionuevo&icon=3&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ericbarrionuevo&icon=3&color=6)](https://visitcount.itsvg.in)
   
 </div>
 
